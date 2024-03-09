@@ -24,4 +24,4 @@ Install dependencies: npm install;
 Run the development server: npm start;
 Open http://localhost:8080 in a web browser.
 
-https://github.com/Mar4enkofff/My_Bike_landing
+https://github.com/Mar4enkofff/KickStarter-Landing-Page
